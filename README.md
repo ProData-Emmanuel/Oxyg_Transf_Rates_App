@@ -24,7 +24,7 @@ The oxygen transfer rate is calculated iteratively using the formula:
 This project helps users understand how oxygen transfer dynamics affect wastewater treatment processes, particularly in maintaining dissolved oxygen levels to support biological activity in an aeration tank.
 
 + The App
-![Screenshot](https://drive.google.com/file/d/1LJLMSUH80FJ1b6e6DwsunKcLWc8VWJzB/view?usp=sharing)
+![Screenshot](https://drive.google.com/file/d/1LJLMSUH80FJ1b6e6DwsunKcLWc8VWJzB/view)
 
 + The Plot
-![Second_Screenshot](https://drive.google.com/file/d/1WMmNNR9NVNLP_p-KMTj7aH3zZDm9KLfB/view?usp=sharing)
+![Second_Screenshot](https://drive.google.com/file/d/1WMmNNR9NVNLP_p-KMTj7aH3zZDm9KLfB/view)
